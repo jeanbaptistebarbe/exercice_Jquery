@@ -1,0 +1,22 @@
+.fieldText{
+  background-color: red;
+  width: 80em;
+  height: 10em;
+}
+.counterClic{
+  position: absolute;
+  top: 50%; left: 45%;
+  width: 10em;
+  height: 10em;
+}
+body{
+  background-color: black;
+}
+.input{
+  position: absolute;
+  top: 19%; left: 45%;
+}
+.FCC{
+  color: red;
+  text-align: center;
+}

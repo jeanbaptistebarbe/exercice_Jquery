@@ -1,0 +1,30 @@
+.fieldText{
+  background-color: orange;
+  width: 80em;
+  height: 10em;
+}
+.counterClicPlus{
+  position: absolute;
+  top: 50%; left: 50%;
+  width: 5em;
+  height: 5em;
+}
+.counterClicMoins{
+  position: absolute;
+  top: 50%; left: 40%;
+  width: 5em;
+  height: 5em;
+}
+body{
+  background-color: yellow;
+}
+.input{
+  position: absolute;
+  top: 19%; left: 45%;
+  width: 7em;
+  height: 7em;
+}
+.PlusOuMoins{
+  color: orange;
+  text-align: center;
+}
